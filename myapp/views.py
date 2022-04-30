@@ -40,4 +40,3 @@ def read(request, id):
 
 def create(request):
   return HttpResponse('Create')
-
